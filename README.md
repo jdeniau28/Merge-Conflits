@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LOCAL
 # Merge-Conflits
 résolution de conflits
